@@ -1,0 +1,10 @@
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:AnikaTabassum18/E-Commerce-master.git'
+
+
+1. git pull
+2. git fetch
+3. git merge
+4. git push -u origin main
+
+Then updat properly
