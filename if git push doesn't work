@@ -1,0 +1,11 @@
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 
+
+
+
+
+
+solution-
+
+
+git push origin main --force
